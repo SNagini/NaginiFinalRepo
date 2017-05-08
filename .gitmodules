@@ -1,0 +1,4 @@
+[submodule "MyProjectOriginal"]
+	path = MyProjectOriginal
+	url = https://github.com/SNagini/MyProjectOriginal.git
+	branch = DevBranch

@@ -1,0 +1,4 @@
+[submodule "SubMod"]
+	path = SubMod
+	url = https://github.com/SNagini/DevOps.git
+	branch = dev

@@ -1,0 +1,1 @@
+C:\Users\Nagini_Sesham\AppData\Local\Programs\Git\mingw64\bin\curl.exe -u admin:admin123 --upload-file "C:\Program Files (x86)\Jenkins\workspace\SampleProject\webgoat-server\target\webgoat-server-8.0-SNAPSHOT.jar" http://localhost:8081/nexus/content/repositories/releases/%Major_Revision%\target.jar
